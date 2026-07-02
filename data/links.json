@@ -46,6 +46,26 @@
       "rclone",
       "https://rclone.org/",
       "云盘和远程存储同步工具。"
+    ],
+    [
+      "Dev Containers",
+      "https://containers.dev/",
+      "可复现开发容器规范。"
+    ],
+    [
+      "NetBird",
+      "https://netbird.io/",
+      "开源 WireGuard 组网平台。"
+    ],
+    [
+      "frp",
+      "https://github.com/fatedier/frp",
+      "内网穿透工具。"
+    ],
+    [
+      "Syncthing",
+      "https://syncthing.net/",
+      "跨设备文件同步。"
     ]
   ],
   "quick_start": [
